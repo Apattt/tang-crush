@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 10h nhà anh nhé công chúa.',
-    btnAccept: 'Okiiiii lunnnn <3',
+    btnAccept: 'Okiiiii lunnnnn <3',
     messLink: 'https://l.facebook.com/l.php?u=https%3A%2F%2Fm.me%2Fphat.apat.12%3Ffbclid%3DIwAR1fFLIA-c-75hIz9rSCHqyZ7Zbn0ajsk3ax1UOaP2tHp1rZrjXaMYOsYnQ&h=AT1FRT8B5gp7AtxSoMYRtzsfetMkStZnItpqy2ephClkhQIZZqdUtSnLMQ6MQHxTTei6lmjLqYXLk2qWNYlT3M53p4EEisgBKtWjgyW83YAIkcifs7Qlonfh2A_Ne1LcOd4iStX0-YUWdmFC6yGffg' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
